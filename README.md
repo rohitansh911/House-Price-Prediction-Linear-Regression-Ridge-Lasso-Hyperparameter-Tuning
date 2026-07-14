@@ -1,3 +1,12 @@
+Python
+
+Scikit-Learn
+
+Pandas
+
+Machine Learning
+
+Jupyter Notebook
 🏠 House Price Prediction using Machine Learning
 📌 Overview
 
